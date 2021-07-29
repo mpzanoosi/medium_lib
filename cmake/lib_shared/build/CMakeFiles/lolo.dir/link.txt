@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -rdynamic -fPIC -g -Wall  -shared -Wl,-soname,liblolo.so.1 -o liblolo.so.1.0.0 CMakeFiles/lolo.dir/home/stocks/develop/liblolo/lolo.c.o 

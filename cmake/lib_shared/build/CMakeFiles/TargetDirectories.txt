@@ -1,0 +1,8 @@
+/home/stocks/develop/liblolo/cmake/shared/build/CMakeFiles/install/strip.dir
+/home/stocks/develop/liblolo/cmake/shared/build/CMakeFiles/test_lolo.dir
+/home/stocks/develop/liblolo/cmake/shared/build/CMakeFiles/install/local.dir
+/home/stocks/develop/liblolo/cmake/shared/build/CMakeFiles/lolo.dir
+/home/stocks/develop/liblolo/cmake/shared/build/CMakeFiles/rebuild_cache.dir
+/home/stocks/develop/liblolo/cmake/shared/build/CMakeFiles/edit_cache.dir
+/home/stocks/develop/liblolo/cmake/shared/build/CMakeFiles/list_install_components.dir
+/home/stocks/develop/liblolo/cmake/shared/build/CMakeFiles/install.dir

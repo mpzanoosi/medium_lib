@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic -fPIC -g -Wall   CMakeFiles/test_lolo.dir/home/stocks/develop/liblolo/test_lolo.c.o  -o tests/test_lolo  lib/liblolo.a 

@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic -fPIC -g -I../../   CMakeFiles/test_lolo.dir/home/stocks/develop/liblolo/test_lolo.c.o  -o test_lolo  -L/home/stocks/develop/liblolo/cmake/app_shared/../lib_shared/build/ -llolo -ldl 

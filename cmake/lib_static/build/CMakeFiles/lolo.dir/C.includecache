@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stocks/develop/liblolo/lolo.c
+lolo.h
+/home/stocks/develop/liblolo/lolo.h
+
+/home/stocks/develop/liblolo/lolo.h
+

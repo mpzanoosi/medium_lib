@@ -1,0 +1,5 @@
+../../lolo.lo: ../../lolo.c /usr/include/stdc-predef.h ../../lolo.h
+
+/usr/include/stdc-predef.h:
+
+../../lolo.h:
