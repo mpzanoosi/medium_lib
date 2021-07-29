@@ -1,5 +1,5 @@
 # medium\_lib
-codes of medoum post: [What is a library and how to develop a library clean?](https://medium.com/@m.zanoosi/what-is-a-library-and-how-to-develop-a-library-clean-b79c5719e769)
+codes of medium post: [What is a library and how to develop a library clean?](https://medium.com/@m.zanoosi/what-is-a-library-and-how-to-develop-a-library-clean-b79c5719e769)
 
 # using gcc directly
 ## static
